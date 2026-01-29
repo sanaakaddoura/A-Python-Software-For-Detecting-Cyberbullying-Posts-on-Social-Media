@@ -37,7 +37,7 @@ __Installation Steps__
 Follow the steps below to install and set up the project:  
 
 Clone the repository from codeocean:
-_git clone https://git.codeocean.com/capsule-xxx.git_  
+_git clone https://github.com/sanaakaddoura/A-Python-Software-For-Detecting-Cyberbullying-Posts-on-Social-Media.git_  
   
 Navigate to the project directory:  
 _cd your-project_  
